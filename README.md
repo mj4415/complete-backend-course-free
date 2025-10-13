@@ -11,7 +11,7 @@ Welcome to the **Complete Backend Development Course** - a comprehensive, free r
 ## 🗺️ Course Roadmap
 
 <!-- Replace this with the actual image once uploaded -->
-![Backend Development Roadmap](assets/images/backend-roadmap.jpg)
+![Backend Development Roadmap](assets/images/backend-roadmap.png)
 
 > **📋 Note**: If the roadmap image is not displaying, please upload the `backend-roadmap.jpg` file to the `assets/images/` folder in this repository.
 
