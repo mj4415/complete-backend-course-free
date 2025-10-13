@@ -10,9 +10,21 @@ Welcome to the **Complete Backend Development Course** - a comprehensive, free r
 
 ## 🗺️ Course Roadmap
 
-![Backend Development Roadmap](assets/images/backend-roadmap.png)
+<!-- Replace this with the actual image once uploaded -->
+![Backend Development Roadmap](assets/images/backend-roadmap.jpg)
+
+> **📋 Note**: If the roadmap image is not displaying, please upload the `backend-roadmap.jpg` file to the `assets/images/` folder in this repository.
 
 *Visual learning path from fundamentals to expert-level backend development*
+
+### 📅 Learning Timeline
+
+| Phase | Duration | Modules | Projects |
+|-------|----------|---------|----------|
+| **Beginner** | 4-6 weeks | Modules 1-2 | 5 Projects |
+| **Intermediate** | 8-10 weeks | Modules 3-5 | 5 Projects |
+| **Advanced** | 6-8 weeks | Modules 6-7 | 5 Projects |
+| **Total** | **18-24 weeks** | **7 Modules** | **15 Projects** |
 
 ### 🎓 Course Objectives
 
@@ -33,14 +45,16 @@ By the end of this course, you will be able to:
 
 ### 📚 What You'll Learn
 
-#### Module 1: Backend Fundamentals
+#### 🌱 Foundation Level (Modules 1-2)
+
+##### Module 1: Backend Fundamentals (1-2 weeks)
 - Introduction to Backend Development
 - Client-Server Architecture
 - HTTP/HTTPS Protocol
 - RESTful API Design Principles
 - Development Environment Setup
 
-#### Module 2: Programming Languages & Frameworks
+##### Module 2: Programming Languages & Frameworks (2-3 weeks)
 **Path A: JavaScript/Node.js**
 - JavaScript Fundamentals for Backend
 - Node.js Runtime Environment
@@ -53,7 +67,9 @@ By the end of this course, you will be able to:
 - Django Introduction
 - Building Your First API
 
-#### Module 3: Databases & Data Management
+#### 🌿 Intermediate Level (Modules 3-5)
+
+##### Module 3: Databases & Data Management (2-3 weeks)
 - Database Fundamentals
 - SQL Basics (PostgreSQL/MySQL)
 - NoSQL Databases (MongoDB)
@@ -61,7 +77,7 @@ By the end of this course, you will be able to:
 - CRUD Operations
 - Database Security
 
-#### Module 4: Authentication & Security
+##### Module 4: Authentication & Security (2-3 weeks)
 - User Authentication Systems
 - JWT (JSON Web Tokens)
 - OAuth 2.0
@@ -69,7 +85,7 @@ By the end of this course, you will be able to:
 - Security Best Practices
 - Data Protection
 
-#### Module 5: API Development
+##### Module 5: API Development (2-3 weeks)
 - RESTful API Design
 - API Documentation
 - Error Handling
@@ -77,7 +93,9 @@ By the end of this course, you will be able to:
 - Rate Limiting
 - Testing APIs
 
-#### Module 6: Advanced Topics
+#### 🌲 Advanced Level (Modules 6-7)
+
+##### Module 6: Advanced Topics (3-4 weeks)
 - Caching Strategies
 - Background Jobs
 - File Upload/Management
@@ -85,7 +103,7 @@ By the end of this course, you will be able to:
 - Microservices Architecture
 - Performance Optimization
 
-#### Module 7: Deployment & DevOps
+##### Module 7: Deployment & DevOps (2-3 weeks)
 - Version Control with Git
 - Cloud Platforms (AWS, Heroku, DigitalOcean)
 - Environment Management
@@ -119,7 +137,7 @@ By the end of this course, you will be able to:
    - Complete hands-on projects in each module
    - Join our community discussions
 
-### 📖 Course Structure
+### 📁 Course Structure
 
 ```
 complete-backend-course-free/
@@ -132,37 +150,35 @@ complete-backend-course-free/
 │   ├── 06-advanced-topics/
 │   └── 07-deployment/
 ├── projects/
-│   ├── beginner/
-│   ├── intermediate/
-│   └── advanced/
-├── resources/
-│   ├── cheat-sheets/
-│   ├── tools-and-utilities/
-│   └── recommended-reading/
-├── assignments/
-├── quizzes/
-└── solutions/
+│   ├── beginner/           # 5 beginner projects
+│   ├── intermediate/       # 5 intermediate projects
+│   └── advanced/          # 5 advanced projects
+├── assets/
+│   └── images/            # Course images and diagrams
+├── COURSE_STRUCTURE.md    # Detailed course overview
+├── CONTRIBUTING.md        # Contribution guidelines
+└── LICENSE               # Course license
 ```
 
 ### 🎨 Hands-on Projects
 
 Practice your skills with these real-world projects:
 
-#### Beginner Projects
+#### 🌱 Beginner Projects (5 Projects)
 1. **Personal Blog API** - CRUD operations with file storage
 2. **Todo List API** - Task management with user authentication
 3. **Weather API Wrapper** - Third-party API integration
 4. **URL Shortener** - Link management service
 5. **Simple Chat API** - Real-time messaging basics
 
-#### Intermediate Projects  
+#### 🌿 Intermediate Projects (5 Projects)  
 6. **E-commerce API** - Product catalog and shopping cart
 7. **Social Media Backend** - User profiles and posts
 8. **Expense Tracker** - Financial data management
 9. **Recipe Sharing Platform** - File uploads and categories
 10. **Booking System** - Appointment scheduling
 
-#### Advanced Projects
+#### 🌲 Advanced Projects (5 Projects)
 11. **Microservices E-commerce** - Distributed system architecture
 12. **Real-time Collaboration Tool** - WebSocket implementation  
 13. **Video Streaming Backend** - Media processing and delivery
@@ -187,20 +203,23 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pul
 - **Issues** - Report problems or request features
 - **Wiki** - Additional resources and FAQ
 
-### 📈 Course Progress Tracking
+### 📊 Progress Tracking
 
 Use our progress checklist to track your journey:
 
-- [ ] Module 1: Backend Fundamentals
-- [ ] Module 2: Programming Languages & Frameworks
-- [ ] Module 3: Databases & Data Management
-- [ ] Module 4: Authentication & Security
-- [ ] Module 5: API Development
-- [ ] Module 6: Advanced Topics
-- [ ] Module 7: Deployment & DevOps
-- [ ] Complete 3 Beginner Projects
-- [ ] Complete 2 Intermediate Projects
-- [ ] Complete 1 Advanced Project
+#### Module Completion
+- [ ] **Module 1**: Backend Fundamentals
+- [ ] **Module 2**: Programming Languages & Frameworks
+- [ ] **Module 3**: Databases & Data Management
+- [ ] **Module 4**: Authentication & Security
+- [ ] **Module 5**: API Development
+- [ ] **Module 6**: Advanced Topics
+- [ ] **Module 7**: Deployment & DevOps
+
+#### Project Completion
+- [ ] **Beginner**: Complete 3 out of 5 projects
+- [ ] **Intermediate**: Complete 2 out of 5 projects
+- [ ] **Advanced**: Complete 1 out of 5 projects
 
 ### 🏆 Certification
 
