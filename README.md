@@ -8,6 +8,12 @@
 
 Welcome to the **Complete Backend Development Course** - a comprehensive, free resource designed specifically for beginners who want to master backend development from scratch. This course covers everything you need to know to become a proficient backend developer.
 
+## 🗺️ Course Roadmap
+
+![Backend Development Roadmap](assets/images/backend-roadmap.png)
+
+*Visual learning path from fundamentals to expert-level backend development*
+
 ### 🎓 Course Objectives
 
 By the end of this course, you will be able to:
@@ -102,8 +108,8 @@ By the end of this course, you will be able to:
    ```
 
 2. **Choose your learning path**
-   - [JavaScript/Node.js Track](./modules/javascript-track/)
-   - [Python Track](./modules/python-track/)
+   - [JavaScript/Node.js Track](./modules/02-programming-languages/)
+   - [Python Track](./modules/02-programming-languages/)
 
 3. **Set up your development environment**
    - Follow the setup guide in [Module 1](./modules/01-fundamentals/)
